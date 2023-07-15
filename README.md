@@ -16,11 +16,11 @@ Data Preprocessings:
 7. Used hyperparameter selection using K-Fold cross validation
 8. Applying t-SNE method on both the dataset
 9. Applied following machine learning algorithms on Wine, Abalone and PCA and LDA features of both the datasets:
-       KNN
-       Decision Tree
-       Naive Bayes
-       Random Forest
-       Adaboost
-       XgBoost
+       KNN,
+       Decision Tree,
+       Naive Bayes,
+       Random Forest,
+       Adaboost,
+       XgBoost,
        GradientBoost
 
